@@ -7,7 +7,6 @@
     - [四、Docker 容器数据卷](#四docker-容器数据卷)
     - [五、DockerFile解析](#五dockerfile解析)
     - [六、推送](#六推送)
-    - [END](#end)
 
 <!-- /TOC -->
 ## Docker 常用命令
@@ -184,5 +183,3 @@ step3:运行
 ### 六、推送   
 `docker login --username=用户名`  
 `docker push NAME:TAG`
-
-### END
