@@ -4,7 +4,10 @@
 
 - [1.两数之和](algo/leetcode/1.两数之和.md)
 - [2.两数相加](algo/leetcode/2.两数相加.md)
+- [7.整数反转](algo/leetcode/7.整数反转.md)
 - [11.盛最多水的容器](./algo/leetcode/11.盛最多水的容器.md)
+- [15.三数之和](./algo/leetcode/15.三数之和.md)
+- [16.最接近的三数之和](./algo/leetcode/16.最接近的三数之和.md)
 - [17.电话号码的字母组合](./algo/leetcode/17.电话号码的字母组合.md)
 - [22*.括号生成](./algo/leetcode/22*.括号生成.md)
 - [39.组合总和](./algo/leetcode/39.组合总和.md)
